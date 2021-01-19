@@ -33,7 +33,4 @@
 // new line with hello world
 #include <iostream>
 
-int main()
-{
-    std::cout << "Fight on!" << std::endl;
-}
+hello_world.cpp
