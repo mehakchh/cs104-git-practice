@@ -31,6 +31,4 @@
 *.out
 *.app
 // new line with hello world
-#include <iostream>
-
 hello_world
