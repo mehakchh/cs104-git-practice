@@ -31,4 +31,4 @@
 *.out
 *.app
 // new line with hello world
-hello_world
+~/cs104-git-practice/hello_world.cpp
